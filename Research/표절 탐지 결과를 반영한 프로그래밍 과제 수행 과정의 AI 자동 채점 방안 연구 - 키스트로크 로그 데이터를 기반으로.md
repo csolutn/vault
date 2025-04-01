@@ -18,6 +18,10 @@
 * S_prag = A + (1-M)* (1-C)* S
 * (A: 시도점수 lenlog_norm / M: mimic 여부 /  C: CopyPaste여부 /  S:Success-Unsucces)
 
+
+---
+
+
 [1] Plagiarism Detection Using Keystroke Logs (2021)
 (변화만을 기록한 자료 사용 -> 토큰 조립 불가능 / 내용기반 분석 불가능)
 [educationaldatamining.org+1educationaldatamining.org+1](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.47/?utm_source=chatgpt.com)
