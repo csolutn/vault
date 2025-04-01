@@ -13,6 +13,6 @@
 #### RQ4.  자동 채점 모델의 개발과 검정
 * 외적 타당도 확보를 위해 성적자료와 상관분석
 * S_oj = S
-* * S_copy = A + (1- C)* S
+* S_copy = A + (1- C)* S
 * S_prag = A + (1-M)* (1-C)* S
 * (A: 시도점수 lenlog_norm / M: mimic 여부 /  C: CopyPaste여부 /  S:Success-Unsucces)
