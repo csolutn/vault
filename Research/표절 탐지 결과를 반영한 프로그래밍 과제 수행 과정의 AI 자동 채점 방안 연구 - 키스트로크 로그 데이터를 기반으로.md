@@ -3,7 +3,7 @@
 #### RQ1.  패턴 별 표절 사례분석을 통한  표절 탐지 속성(feature)정량화
 * 키스트로크 및 붙여넣기 패턴과 대응되는 사례 연구 --> 적합(내적타당도가 높은)한 속성 산출
 * 길이 / 개수 기반 : pasted 된 content의 길이, typed된 content의 길이, 타이핑 수 등
-* 내용 기반 : pasted된 content와 final_code 사이의 교집합 비율
+* 내용 기반 : pasted / typed된 content와 final_code 사이의 교집합 비율
 #### RQ2. 복사-붙여넣기(Copy Paste) 유형 표절 탐지 및 검정
 * 분류모델1 : 속성값 + 과정 재생을 통한 표절 응답의 지도학습 데이터 생성, ML FP최적화
 * 분류모델2. 키스트로크 로우데이터 input을 통한 LLM의 표절확률계산 - 임계값 FP최적화
