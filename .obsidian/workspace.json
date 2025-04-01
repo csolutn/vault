@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "표절 탐지 결과를 반영한 프로그래밍 과제 자동 채점 방안 연구 - 키스트로그 데이터를 기반으로"
             }
+          },
+          {
+            "id": "66380610e592c706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/표절 탐지 결과를 반영한 프로그래밍 과제 자동 채점 방안 연구 - 키스트로그 데이터를 기반으로.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "표절 탐지 결과를 반영한 프로그래밍 과제 자동 채점 방안 연구 - 키스트로그 데이터를 기반으로"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a9befca193221481",
@@ -170,9 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f940a2b4514d4f4a",
+  "active": "66380610e592c706",
   "lastOpenFiles": [
-    "Research",
-    "Research/표절 탐지 결과를 반영한 프로그래밍 과제 자동 채점 방안 연구 - 키스트로그 데이터를 기반으로.md"
+    "선행연구목록.md",
+    "Research/표절 탐지 결과를 반영한 프로그래밍 과제 자동 채점 방안 연구 - 키스트로그 데이터를 기반으로.md",
+    "Research"
   ]
 }
