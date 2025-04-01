@@ -18,7 +18,7 @@
 * S_prag = A + (1-M)* (1-C)* S
 * (A: 시도점수 lenlog_norm / M: mimic 여부 /  C: CopyPaste여부 /  S:Success-Unsucces)
 
-[1] Plagiarism Detection Using Keystroke Logs 
+[1] Plagiarism Detection Using Keystroke Logs (2021)
 (변화만을 기록한 자료 사용 -> 토큰 조립 불가능 / 내용기반 분석 불가능)
 [educationaldatamining.org+1educationaldatamining.org+1](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.47/?utm_source=chatgpt.com)
 표 3. 키 입력 관련 상위 20개 특성의 변수 중요도, 평균, 표준편차
@@ -45,7 +45,7 @@
 |전체 멈춤 횟수 (전체)|30.805|79.002 (33.364)|66.796 (71.594)|
 |단어 앞 멈춤 시간 (200ms 기준, 중앙값)|29.008|0.431 (0.152)|0.566 (0.307)|
 |단어 앞 멈춤 시간 (200ms 기준, 평균)|27.500|1.398 (0.825)|0.986 (0.736)|
-[2] Using Keystroke Analytics to Improve Pass-Fail Classifiers
+[2] Using Keystroke Analytics to Improve Pass-Fail Classifiers (2017)
 1. 성공적인 컴파일 횟수
 2. 성공적인 컴파일의 평균 복잡도
 3. 실패한 컴파일 횟수
