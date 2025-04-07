@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/복사 붙여넣기 관련 유형 정리.md",
+                "file": "Research/0. 연구계획 -표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "복사 붙여넣기 관련 유형 정리"
+              "title": "0. 연구계획 -표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로"
+            }
+          },
+          {
+            "id": "579859b3a6982fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/m. 표절 탐지 방법 비교표.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "m. 표절 탐지 방법 비교표"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a9befca193221481",
@@ -185,11 +198,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13a3cc83aaf6e8be",
+  "active": "579859b3a6982fc3",
   "lastOpenFiles": [
-    "Research/표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
-    "Research/복사 붙여넣기 관련 유형 정리.md",
-    "Research/선행연구목록.md",
+    "Research/m. 복사 붙여넣기 관련 유형 정리.md",
+    "Research/m. 표절 탐지 방법 비교표.md",
+    "Research/b. 선행연구목록.md",
+    "Research/0. 연구계획 -표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
     "Research"
   ]
 }
