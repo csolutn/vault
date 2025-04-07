@@ -22,5 +22,14 @@
       ],
       "key": "="
     }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
   ]
 }
