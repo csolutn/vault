@@ -72,9 +72,37 @@
               "icon": "lucide-file",
               "title": "ChatGPT + 키스트로크 로그 로우데이터 입력에 따른 피드백"
             }
+          },
+          {
+            "id": "dd73bf1494b3dd46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Archive/0.  표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.  표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로"
+            }
+          },
+          {
+            "id": "8ebcd947dcd6d14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Archive/배경이론.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "배경이론"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,6 +241,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -222,23 +251,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7a33a92df3fa525",
+  "active": "8ebcd947dcd6d14d",
   "lastOpenFiles": [
+    "Research/Archive/배경이론.md",
+    "Pasted image 20250907172512.png",
+    "Research/Archive/0.  표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
+    "Research/Carter (2015) Replication결과.md",
+    "Research/Archive",
     "참고자료/Cambridge - 14. Assessment and Pragiarism (in Computing Education).md",
     "ChatGPT + 키스트로크 로그 로우데이터 입력에 따른 피드백.md",
-    "Research/2. 선행연구 분석 요약.md",
-    "Research/2.0. 선행연구목록.md",
-    "Research/5.추후 보완해야할 과제.md",
-    "Research/2.1. keystroke 기반 평가 선행 연구.md",
+    "Research/Archive/2. 선행연구 분석 요약.md",
+    "Research/Archive/2.0. 선행연구목록.md",
+    "Research/Archive/5.추후 보완해야할 과제.md",
+    "Research/Archive/2.1. keystroke 기반 평가 선행 연구.md",
     "연구계획서/3. 연구 방법.md",
     "연구계획서/2. 이론적 배경.md",
     "연구계획서/1. 서론.md",
     "참고자료/3.1. 표절 탐지 방법 비교표.md",
     "참고자료/2.2. 기존 로그 분석 도구.md",
-    "Research/1. keystroke 기반 평가의 필요성.md",
+    "Research/Archive/1. keystroke 기반 평가의 필요성.md",
     "Pasted image 20250421204941.png",
     "Pasted image 20250421221719.png",
-    "Research/0.  표절 탐지 결과를 반영한 프로그래밍 과제 수행 과정의 AI 자동 채점 방안 연구 - 키스트로크 로그 데이터를 기반으로.md",
     "Pasted image 20250421220608.png",
     "참고자료/notebooklm 프롬프트.md",
     "참고자료/분류 성능 지표 요약.md",
